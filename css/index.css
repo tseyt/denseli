@@ -1,15 +1,15 @@
 /** Font Faces**/
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 100;
-	src: url(font/OpenSans-Light.ttf) format('truetype');
-}
-@font-face {
 	font-family: 'Plumpfull';
 	font-style: normal;
 	font-weight: 100;
 	src: url(font/Plumpfull.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 100;
+	src: url(font/OpenSans-Light.ttf) format('truetype');
 }
 /*@font-face {
 	font-family: 'Open Sans';
