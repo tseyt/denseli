@@ -5,6 +5,12 @@
 	font-weight: 100;
 	src: url(font/OpenSans-Light.ttf) format('truetype');
 }
+@font-face {
+	font-family: 'Plumpfull';
+	font-style: normal;
+	font-weight: 100;
+	src: url(font/Plumpfull.ttf) format('truetype');
+}
 /*@font-face {
 	font-family: 'Open Sans';
 	font-style: normal;
@@ -15,7 +21,7 @@
 body{
 	margin:0;
 	background: #fff;
-	font-family: 'Open Sans';
+	font-family: 'Plumpfull';
 	font-size: 25px;
 	font-weight: 100;
 }
