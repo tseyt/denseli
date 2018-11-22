@@ -1,4 +1,4 @@
-### [Website for DENSELI](http://tseyt.github.io/denseli)
+### [DENSELI](http://tseyt.github.io/denseli)
 
 DENSELI is a Game Studio powered by [Roblox](https://www.roblox.com/).
 
